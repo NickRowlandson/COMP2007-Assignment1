@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
-        <div class="panel panel-success">
+        <div class="panel panel-warning">
             <div class="panel-heading">
                 <h1>Services</h1>
             </div>
