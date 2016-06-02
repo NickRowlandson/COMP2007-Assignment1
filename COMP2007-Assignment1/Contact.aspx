@@ -4,7 +4,7 @@
     <div class="container well">
         <div class="row">
             <div class="col-md-offset-4 col-md-8">
-                <h1>Contact Us</h1>
+                <h1>Contact Me</h1>
             </div>
         </div>
         <div class="row">

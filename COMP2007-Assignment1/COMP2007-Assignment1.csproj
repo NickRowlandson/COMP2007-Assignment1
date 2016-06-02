@@ -71,10 +71,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Assets\img\facebook.png" />
     <Content Include="Assets\img\fyrespark.png" />
     <Content Include="Assets\img\github.png" />
+    <Content Include="Assets\img\google.png" />
     <Content Include="Assets\img\nickrowlandson.jpg" />
     <Content Include="Assets\img\symson.png" />
+    <Content Include="Assets\img\twitter.png" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\app.css" />
     <Content Include="Default.aspx" />
