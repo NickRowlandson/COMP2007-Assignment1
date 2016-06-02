@@ -36,6 +36,15 @@ namespace COMP2007_Assignment1
                 case "Contact":
                     contact.Attributes.Add("class", "active");
                     break;
+                case "Projects":
+                    projects.Attributes.Add("class", "active");
+                    break;
+                case "Services":
+                    services.Attributes.Add("class", "active");
+                    break;
+                case "About":
+                    about.Attributes.Add("class", "active");
+                    break;
             }
         }
     }
